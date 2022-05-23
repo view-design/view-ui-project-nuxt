@@ -1,0 +1,22 @@
+{
+  "name": "view-ui-project-nuxt",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "validate": "html-validate validate.html"
+  },
+  "dependencies": {
+    "view-ui-plus": "^1.0.0"
+  },
+  "devDependencies": {
+    "babel-loader": "^8.2.5",
+    "html-validate": "^7.1.0",
+    "less": "^4.1.2",
+    "less-loader": "^11.0.0",
+    "nuxt": "3.0.0-rc.3"
+  }
+}
