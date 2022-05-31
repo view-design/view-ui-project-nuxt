@@ -10,7 +10,7 @@
     "validate": "html-validate validate.html"
   },
   "dependencies": {
-    "view-ui-plus": "^1.0.0"
+    "view-ui-plus": "^1.1.0"
   },
   "devDependencies": {
     "babel-loader": "^8.2.5",
