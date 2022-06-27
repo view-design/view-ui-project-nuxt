@@ -1,14 +1,9 @@
 <template>
-  <div class="container">
-      <Hello/>
-  </div>
+    <Demo />
 </template>
 
 <script setup>
 </script>
 
 <style lang="less" scoped>
-  .container {
-    padding: 20px;
-  }
 </style>
